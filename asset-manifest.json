@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RecipesRtkQuery/static/css/main.bbacd381.css",
+    "main.js": "/RecipesRtkQuery/static/js/main.e4756f10.js",
+    "index.html": "/RecipesRtkQuery/index.html",
+    "main.bbacd381.css.map": "/RecipesRtkQuery/static/css/main.bbacd381.css.map",
+    "main.e4756f10.js.map": "/RecipesRtkQuery/static/js/main.e4756f10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbacd381.css",
+    "static/js/main.e4756f10.js"
+  ]
+}
